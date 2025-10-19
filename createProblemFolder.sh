@@ -15,9 +15,9 @@ createProblemFolder(){
     mkdir student_solutions
 
     cd ideal_solutions
-    touch solution.cpp
-    touch solution.java
-    touch solution.py
+    touch Main.cpp
+    touch Main.java
+    touch Main.py
 
     cd ..
 
